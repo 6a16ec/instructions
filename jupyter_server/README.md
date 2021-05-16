@@ -1,17 +1,7 @@
-## Usage
+## Install Python
+[Python3.9](https://github.com/6a16ec/instructions/tree/main/python3.9)
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+## Installing Jypeter
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+python -m pip install jupyter
+```
