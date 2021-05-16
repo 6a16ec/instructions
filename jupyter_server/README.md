@@ -5,3 +5,8 @@
 ```
 python -m pip install jupyter
 ```
+
+## Running Jypeter
+```
+jupyter notebook --allow-root
+```
