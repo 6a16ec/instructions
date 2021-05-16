@@ -10,3 +10,10 @@ python -m pip install jupyter
 ```
 jupyter notebook --allow-root
 ```
+## In PowerShell, enter the command
+```
+ssh -L  8000:localhost:8888 root@185.117.119.210
+```
+
+## Congratulations, Jypeter Notebook Available
+http://localhost:8000/
