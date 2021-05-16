@@ -12,3 +12,9 @@ wget https://bootstrap.pypa.io/get-pip.py
 python3.9 get-pip.py
 rm get-pip.py
 ```
+
+## Create and activate venv
+```
+python3.9 -m venv venv
+source venv/bin/activate
+```
