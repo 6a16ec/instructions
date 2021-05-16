@@ -7,10 +7,11 @@ sudo apt install -y  python3.9-dev python3.9-venv
 ```
 
 ## Installing the pip package manager
+```
 wget https://bootstrap.pypa.io/get-pip.py
 python3.9 get-pip.py
 rm get-pip.py
-
+```
 
 ## Usage
 
