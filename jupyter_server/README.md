@@ -8,6 +8,7 @@ python -m pip install jupyter
 
 ## Running Jypeter
 ```
+source venv/bin/activate
 jupyter notebook --allow-root
 ```
 ## In PowerShell, enter the command
