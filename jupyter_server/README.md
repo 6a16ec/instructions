@@ -15,7 +15,7 @@ ssh -L  8000:localhost:8888 root@185.117.119.210
 ## Activate venv & Running Jypeter
 ```
 source venv/bin/activate
-nohup jupyter notebook --allow-root &
+jupyter notebook --allow-root &
 ```
 
 ## Congratulations, Jypeter Notebook Available
