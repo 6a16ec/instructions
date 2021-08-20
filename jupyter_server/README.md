@@ -12,14 +12,9 @@ python -m pip install jupyter
 ssh -L  8000:localhost:8888 root@185.117.119.210
 ```
 
-## Create and activate venv
+## Activate venv & Running Jypeter
 ```
-python3.9 -m venv venv
 source venv/bin/activate
-```
-
-## Running Jypeter
-```
 jupyter notebook --allow-root
 ```
 
