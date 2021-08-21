@@ -3,8 +3,7 @@
 
 ## Installing Jypeter
 ```
-source venv/bin/activate
-python -m pip install jupyter
+python3.9 -m pip install jupyter
 ```
 
 ## Activate venv & Running Jypeter
