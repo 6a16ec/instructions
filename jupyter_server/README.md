@@ -9,6 +9,7 @@ source venv/bin/activate
 
 ## Installing Jypeter
 ```
+python3.9 -m pip install wheel
 python3.9 -m pip install jupyter
 ```
 
