@@ -1,6 +1,12 @@
 ## Install Python
 [Python3.9](https://github.com/6a16ec/instructions/tree/main/python3.9)
 
+## Create and activate venv
+```
+python3.9 -m venv venv
+source venv/bin/activate
+```
+
 ## Installing Jypeter
 ```
 python3.9 -m pip install jupyter
