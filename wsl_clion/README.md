@@ -5,7 +5,7 @@ sudo apt-get update
 
 ## Installing auxiliary components
 ```
-sudo apt-get install build-essential libssl-dev
+sudo apt-get install -y build-essential libssl-dev
 ```
 
 sudo add-apt-repository ppa:jonathonf/gcc-7.1
