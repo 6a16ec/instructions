@@ -35,3 +35,8 @@ Actual CMake path: /usr/local/bin/cmake
 ```
 sudo apt install -y gdb
 ```
+
+## Installing pip
+```
+sudo apt install -y python3-pip
+```
