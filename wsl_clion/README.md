@@ -29,6 +29,7 @@ cd cmake-3.20.0
 make
 sudo make install
 ```
+Actual CMake path: /usr/local/bin/cmake
 
 ## Installing gdb
 ```
