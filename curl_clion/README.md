@@ -6,4 +6,4 @@ https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32
 
 https://curl.se/windows/
 
-3. Copy C:\Users\Public\curl\bin\libcurl-x64.dll file to the `cmake-build-debug` project folder.
+3. Copy `C:\Users\Public\curl\bin\libcurl-x64.dll` file to the `cmake-build-debug` project folder.
