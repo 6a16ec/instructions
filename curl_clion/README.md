@@ -1,4 +1,5 @@
-## Installing mingw-w64 (Change the architecture when installing to x86-64)
+Install the MinGW compiler 
+(Change the architecture to x86-64 during installation)
 
 https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download
 
