@@ -6,5 +6,5 @@ https://curl.se/windows/
 
 3. Copy `C:\Users\Public\curl\bin\libcurl-x64.dll` file to the `cmake-build-debug` project folder.
 
-4. Это всё, почувствуй себя свободным, чтобы использовать примеры использования библиотеки
+4. That's all, feel free to use examples of using the library
 https://github.com/curl/curl/blob/master/docs/examples
