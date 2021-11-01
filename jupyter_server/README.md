@@ -1,16 +1,17 @@
 ## Install Python
 [Python3.9](https://github.com/6a16ec/instructions/tree/main/python3.9)
+[Python3.10](https://github.com/6a16ec/instructions/tree/main/python3.10)
 
 ## Create and activate venv
 ```
-python3.9 -m venv venv
+python3.10 -m venv venv
 source venv/bin/activate
 ```
 
 ## Installing Jypeter
 ```
-python3.9 -m pip install wheel
-python3.9 -m pip install jupyter
+python -m pip install wheel
+python -m pip install jupyter
 ```
 
 ## Activate venv & Running Jypeter
