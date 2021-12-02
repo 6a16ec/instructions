@@ -1,6 +1,7 @@
 ## Install Python
-[Python3.9](https://github.com/6a16ec/instructions/tree/main/python3.9) <br />
-[Python3.10](https://github.com/6a16ec/instructions/tree/main/python3.10)
+[Python 3.8](https://github.com/6a16ec/instructions/tree/main/python3.8) <br />
+[Python 3.9](https://github.com/6a16ec/instructions/tree/main/python3.9) <br />
+[Python 3.10](https://github.com/6a16ec/instructions/tree/main/python3.10)
 
 ## Create and activate venv
 ```
