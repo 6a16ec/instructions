@@ -9,6 +9,10 @@ sudo apt-get update --ignore-missing
 sudo apt install -y  python3.8-dev python3.8-venv
 ```
 
+```
+sudo apt-get install -y python3-distutils
+```
+
 ## Installing the pip package manager
 ```
 wget https://bootstrap.pypa.io/get-pip.py
