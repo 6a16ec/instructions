@@ -18,7 +18,7 @@ python -m pip install jupyter
 ### Activate venv & Running Jypeter
 ```
 source venv/bin/activate
-nohup jupyter notebook --allow-root --ip=0.0.0.0 --port=80 &
+nohup jupyter nbclassic --allow-root --ip=0.0.0.0 --port=80 &
 ```
 
 
